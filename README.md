@@ -1,7 +1,5 @@
 # EasySendSMS Report API (DLR)
 
-## Our SMS API, simply, easy
-
 ### HTTP Post Back
 
 Upon delivery confirmation, [Easy Send SMS](https://www.easysendsms.com/) will Post Back to your own server to allow you to monitor the status of messages sent.
